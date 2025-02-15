@@ -6,6 +6,7 @@ public class AssertKey {
 		// TODO Auto-generated method stub
 
 		int a = 10;
+		System.out.println("this is assert Key");
 		assert(a>=18); //run as -> run configurations -> Arguments -> VM Argumentns : type -ea -> run 
 	}
 
